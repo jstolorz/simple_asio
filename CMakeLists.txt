@@ -5,3 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_subdirectory(server)
 add_subdirectory(client)
+add_subdirectory(manage_memory)
+add_subdirectory(asio_buffer)
